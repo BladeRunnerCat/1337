@@ -1,2 +1,4 @@
 # 1337
-My journey with 1337
+School 1337 Experience
+
+I haven't been able to complete the full program, but it was a wonderful time. During my time in the pool at School 1337, I had to recreate functions that are already available in C, which helped me understand the basics thoroughly. This hands-on approach allowed me to build a solid foundation in programming and problem-solving. The experience not only sharpened my coding skills but also taught me the importance of attention to detail and perseverance. It was a challenging yet rewarding journey that significantly boosted my confidence and passion for software development.
